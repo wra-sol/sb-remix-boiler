@@ -1,8 +1,15 @@
-# Welcome to Remix!
+# Welcome to Remix with Supabase Auth!
 
 - [Remix Docs](https://remix.run/docs)
+- [Supabase Docs](https://supabase.com/docs)
 
 ## Development
+
+Create .env file, and retireve your Supabase variables.
+
+`SUPABASE_URL=https://yoursupabaseurl.com`
+
+`SUPABASE_ANON_KEY=your.anonkey`
 
 From your terminal:
 
